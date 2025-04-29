@@ -1,5 +1,4 @@
 .div1 nav{
-
    text-align: right;
 }
 
@@ -7,8 +6,49 @@
   
     color: black;
 }
+body{
+background-color: rgb(69, 71, 71);
+}
+    
+.div1  h1{
+text-align: center;
+
+}
+.div1{
+text-align: center;
+
+}
+
+
+
 .div2 img{
  width: 400px;
  height: 500px;
- text-align: center;
+}
+.div2 h1{
+
+}
+.div2 button{
+margin-left: 1150px;
+}
+.div2 footer{
+    text-align: center;
+    background-color: rgb(148, 147, 147);
+    height: 30px;
+text-align: center;
+}
+a:hover{
+    color: rgb(232, 217, 217);
+    text-decoration: dashed;
+}
+a {
+    text-decoration: none;
+}
+.co{
+    width: 600px;
+    height: 500px;
+}
+.me{
+    width: 600px;
+    height: 500px;
 }
